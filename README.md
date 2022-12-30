@@ -31,11 +31,11 @@
 ### :man_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria, West Africa.
 
-[![@sammydepoj's Holopin board](https://holopin.me/sammydepoj)](https://holopin.io/@sammydepoj)
+[![@sammydepoj's Holopin board](https://holopin.me/sammydepoj)](https://holopin.io/@sammydepoj)-
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - :seedling: Exploring Tailwind Css.
-- 🌱 I’m currently learning React.js
+- 🌱 Also Exploring React.js
 - 😄 Pronouns: He/Him
 - :zap: In my free time, I watch technical movies.
 - 👯 I’m looking to collaborate on any fun project.
